@@ -118,4 +118,3 @@ document.getElementsByTagName("h2")[1].style.color = "red"; //changing "Submissi
 
 var hr2 = document.createElement("hr");	//Adding horizontal rule
 document.body.appendChild(hr2);
-
